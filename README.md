@@ -1,10 +1,10 @@
-# AddRemoveComputersToSCOMGroup
+# AddRemoveComputersToSCOMGroup Script
 
 ## [Download Here][Download]
 
 [Download]: https://github.com/thekevinholman/AddRemoveComputersToSCOMGroup/archive/refs/heads/main.zip
 
-### Add and Remove Computers To SCOM Group using PowerShell
+### Add and Remove Computers To SCOM Group using PowerShell Script
 
 https://kevinholman.com/2021/09/29/explicit-group-membership-in-scom-using-powershell/
 
